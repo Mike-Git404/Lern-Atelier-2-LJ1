@@ -4,6 +4,6 @@ Mein Ziel für die zweite Lernperiode ist, das ich die Grundlagen von Pygame ken
 
 ## Tag 1 23.10.2026
 ### Ziele:
-1. [ ] Spick für die Modulprüfung 319 schreiben.
-2. [ ] Die Präsentation erstellen im Modul 431 LA_1728.
+1. [x] Spick für die Modulprüfung 319 schreiben.
+2. [x] Die Präsentation erstellen im Modul 431 LA_1728.
 3. [ ] Falls noch Zeit übrig ist, weiter an meinem Testspiel mit Pygame arbeiten.
