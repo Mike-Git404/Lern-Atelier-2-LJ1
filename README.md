@@ -15,6 +15,11 @@ Mein Ziel für die zweite Lernperiode ist, das ich die Grundlagen von Pygame ken
 
 ## Tag 3 06.11.2026
 ### Ziele:
-1. [ ] Das was ich am Dienstag im Modul 162 verpasst habe nachholen
-2. [ ] Falls noch Zeit übrig ist, am Freifach arbeiten.
+1. [x] Das was ich am Dienstag im Modul 162 verpasst habe nachholen
+2. [x] Falls noch Zeit übrig ist, am Freifach arbeiten.
 3. [ ] Falls Madhav Hilfe braucht beim Projekt ihm helfen
+
+## Tag 4 13.11.2026
+### Ziele: 
+1. [ ] Die erste Hälfte an meinem Freifach arbeiten
+2. [ ] Die zweite Hälfte weiter Pygame lernen
