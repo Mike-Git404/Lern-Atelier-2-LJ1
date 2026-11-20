@@ -21,5 +21,10 @@ Mein Ziel für die zweite Lernperiode ist, das ich die Grundlagen von Pygame ken
 
 ## Tag 4 13.11.2026
 ### Ziele: 
-1. [ ] Die erste Hälfte an meinem Freifach arbeiten
-2. [ ] Die zweite Hälfte weiter Pygame lernen
+1. [x] Die erste Hälfte an meinem Freifach arbeiten
+2. [x] Die zweite Hälfte weiter Pygame lernen
+
+## Tag 5 20.11.2026
+### Ziele:
+1. [ ] Am Projekt arbeiten, so das wir fast fertig sind damit
+2. [ ] Die übrige Zeit ins Freifach investieren.
